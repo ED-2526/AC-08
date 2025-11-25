@@ -1,4 +1,4 @@
-## Proba.py - Model de classificació per predir cancel·lacions de vols
+## projecte_v1.py - Model de classificació per predir cancel·lacions de vols
 
 ## Instal·lar dependències (si cal): kaggle pandas scikit-learn xgboost matplotlib fastparquet
 ## Arxius de dades: https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download
@@ -209,3 +209,4 @@ print("Confusion matrix:\n", confusion_matrix(y_test, y_pred))
 # - roc_auc_score calcula l'AUC-ROC per avaluar la capacitat de classificació
 # - confusion_matrix mostra la matriu de confusió per visualitzar prediccions correctes i errònies
 """
+
