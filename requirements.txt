@@ -1,0 +1,7 @@
+wandb
+pandas
+numpy
+scikit-learn
+pyarrow
+fastparquet
+
