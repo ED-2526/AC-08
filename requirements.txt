@@ -1,7 +1,10 @@
-wandb
 pandas
 numpy
 scikit-learn
-pyarrow
+matplotlib
+joblib
+wandb
 fastparquet
+
+
 
