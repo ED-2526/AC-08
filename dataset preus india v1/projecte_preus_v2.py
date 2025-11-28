@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 import re
@@ -9,6 +8,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error
+from sklearn.model_selection import KFold
 
 # -------------------------------
 # FUNCIONS DE PROCESSAMENT
@@ -127,6 +127,7 @@ def regresion_avaluation(y_test, y_pred):
     r2 = r2_score(y_test, y_pred)
     mae = mean_absolute_error(y_test, y_pred)
     mape = np.mean(np.abs((y_test - y_pred) / y_test)) * 100
+    print("\nSense K-Fold:")
     print(f"R2: {r2:.4f} | MAE: {mae:.2f} | MAPE: {mape:.2f}%")
 
 def view_var_importance(pipe, categorical_cols, numeric_cols):
@@ -142,6 +143,46 @@ def view_var_importance(pipe, categorical_cols, numeric_cols):
     print("\nTop 15 variables més importants:")
     print(fi.head(15))
 
+def cross_val_random_forest(X, y, categorical_cols, numeric_cols, n_splits=5):
+    ## Aquesta funció realitza una validació creuada K-Fold per al model RandomForest
+    ## amb Pipeline, permetent avaluar el rendiment del model de manera més robusta.
+    ## Les mètriques calculades són R², MAE i MAPE, tant per fold com la mitjana global.
+
+    kf = KFold(n_splits=n_splits, shuffle=True, random_state=42)
+    
+    ## Llistes per guardar les mètriques de cada fold (per la mitjana)
+    r2_scores = []
+    mae_scores = []
+    mape_scores = []
+
+    fold = 1
+    for train_index, val_index in kf.split(X):
+        ## Divideix les dades en train i validation segons el fold actual
+        X_train, X_val = X.iloc[train_index], X.iloc[val_index]
+        y_train, y_val = y.iloc[train_index], y.iloc[val_index]
+
+        ## Entrena el pipeline RandomForest reutilitzant la funció existent
+        pipe = train_random_forest(X_train, y_train, categorical_cols, numeric_cols)
+        y_pred = pipe.predict(X_val)
+
+        ## Calcula les mètriques de rendiment del fold actual
+        r2 = r2_score(y_val, y_pred)
+        mae = mean_absolute_error(y_val, y_pred)
+        mape = np.mean(np.abs((y_val - y_pred) / y_val)) * 100
+
+        ## Mostra les mètriques del fold
+        print(f"Fold {fold} → R2: {r2:.4f} | MAE: {mae:.2f} | MAPE: {mape:.2f}%")
+        fold += 1
+
+        ## Guarda les mètriques per calcular la mitjana després
+        r2_scores.append(r2)
+        mae_scores.append(mae)
+        mape_scores.append(mape)
+
+    ## Calcula i mostra la mitjana global de totes les folds
+    print("\nPromedio K-Fold:")
+    print(f"R2: {np.mean(r2_scores):.4f} | MAE: {np.mean(mae_scores):.2f} | MAPE: {np.mean(mape_scores):.2f}%")
+    
 # -------------------------------
 # MAIN
 # -------------------------------
@@ -151,6 +192,8 @@ def main():
 
     ## Carrega el dataset des de CSV
     archivo = "Data_Train.csv"
+    ## !!!NO DESCOMENTAR NI BORRAR seguent linea, nomes Alex: tinc el entorn virtual fora de la carpeta.
+    ##archivo = "dataset preus india v1/Data_Train.csv"
     df = pd.read_csv(archivo, encoding='utf-8')
     df.dropna(inplace=True)
 
@@ -164,6 +207,10 @@ def main():
     ## Detecta columnes categòriques i numèriques
     categorical_cols = X.select_dtypes(include=["object", "category"]).columns.tolist()
     numeric_cols = X.columns.difference(categorical_cols).tolist()
+
+    ## K-Fold Cross Validation (splits entre 5-10 optim)
+    print("=== K-Fold Cross Validation ===")
+    cross_val_random_forest(X, y, categorical_cols, numeric_cols, n_splits=5)
 
     ## Divideix en train/test
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
