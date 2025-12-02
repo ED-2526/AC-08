@@ -132,11 +132,22 @@ def train_random_forest(X_train, y_train, categorical_cols, numeric_cols):
     # - max_depth: Posa un sostre a l'alçada de l'arbre (abans era infinita).
     # - min_samples_leaf: obliga que cada decisió es base en almenys x vols.
     # - min_samples_split: No divideix una branca si te menys de x dades.
+    """
+    ## Afegint paràmetres com max_features, max_samples, bootstrap i oob_score
+    ## podem millorar la generalització del model i reduir l'overfitting.
+    ## Sense perdre massa precisió en les prediccions d'entrenament,
+    ## i millorant la capacitat del model per generalitzar a dades noves,
+    ## així obtenint millors resultats en el conjunt de test.
+    """
     rf_model = RandomForestRegressor(
-        n_estimators=250,
-        max_depth=25,
-        min_samples_split=5,
-        min_samples_leaf=1,
+        n_estimators=250, # Nombre d'arbres al bosc
+        max_depth=25, # Sostre a l'alçada de l'arbre
+        min_samples_split=5,   # Augmentat per reduir overfitting
+        min_samples_leaf=1, # Augmentat per reduir overfitting
+        max_features=0.7, # %features per arbre
+        max_samples=0.9, # %dades per arbre
+        bootstrap=True, # Utilitza mostres amb reemplaçament per cada arbre
+        oob_score=True, # Permet avaluar el model amb mostres fora de bossa
         random_state=42,
         n_jobs=-1  # Utilitza tots els nuclis del PC
     )
@@ -170,16 +181,17 @@ def train_xgboost(X_train, y_train, categorical_cols, numeric_cols):
     )
     # Paràmetres ajustats()
     xgb = XGBRegressor(
-        n_estimators=1000, # elevat doncs learning rate baix per equilibrar
-        learning_rate=0.03, 
+        n_estimators=2000, # elevat doncs learning rate baix per equilibrar
+        learning_rate=0.04, # taxa d'aprenentatge baixa per millorar generalització 
         max_depth=7,        #depth de cada arbre maxima
         subsample=0.85,     # %dades per arbre
-        colsample_bytree=0.80, # %features per arbre
-        reg_alpha=0.2,
-        reg_lambda=1.2,
+        colsample_bytree=0.8, # %features per arbre
+        reg_alpha=0.5, # L1 regularization
+        reg_lambda=5, # L2 regularization
         random_state=42,
-        tree_method="hist"   
+        tree_method="hist"
     )
+    
     #Pipeline preprocessament i model xgboost
     pipe = Pipeline(steps=[
         ('preprocessor', preprocessor),
