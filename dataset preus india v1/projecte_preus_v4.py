@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
+import argparse
 from xgboost import XGBRegressor
 
 from sklearn.model_selection import train_test_split
@@ -12,6 +13,36 @@ from sklearn.model_selection import KFold
 from sklearn.metrics import r2_score, mean_absolute_error, mean_absolute_percentage_error
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+# -------------------------------
+# ArgParse
+# -------------------------------
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Seleciona el model a executar i si vols K-Fold."
+    )
+    parser.add_argument(
+        "--model",
+        choices=["rf", "xgb","both"],
+        default="both",
+        help="Model: 'rf' (RandomForest), 'xgb' (XGBoost), 'both' (ambdós).",
+    )
+    parser.add_argument(
+        "--kfold",
+        type=int,
+        default=0,
+        help="Nombre de folds per a K-Fold (0 per desactivar).",
+    )
+    try:
+        return parser.parse_args()
+    except:
+        print("\nError en els arguments. \nExemples d'ús:")
+        print("   python projecte_preus.py --model rf --kfold 5")
+        print("   python projecte_preus.py --model xgb")
+        print("   python projecte_preus.py --model both --kfold 10")
+        print("\nValors per defecte.")
+        print("   python projecte_preus.py")
+        exit(1)
 
 # -------------------------------
 # FUNCIONS DE PROCESSAMENT
@@ -191,7 +222,7 @@ def train_xgboost(X_train, y_train, categorical_cols, numeric_cols):
         random_state=42,
         tree_method="hist"
     )
-    
+
     #Pipeline preprocessament i model xgboost
     pipe = Pipeline(steps=[
         ('preprocessor', preprocessor),
@@ -331,7 +362,9 @@ def cross_val_xgboost(X, y, categorical_cols, numeric_cols, n_splits=5):
 # -------------------------------
 def main():
     ## Evita avisos de futur canvi en pandas
-    #pd.set_option('future.no_silent_downcasting', True)
+    pd.set_option('future.no_silent_downcasting', True)
+
+    args = parse_args()
 
     ## Carrega el dataset des de CSV
     archivo = "Data_Train.csv"
@@ -358,69 +391,78 @@ def main():
     categorical_cols = X.select_dtypes(include=["object", "category"]).columns.tolist()
     numeric_cols = X.columns.difference(categorical_cols).tolist()
     
-    ## K-Fold Cross Validation (splits entre 5-10 optim)
-    print("=== K-Fold Cross Validation ===")
-    cross_val_random_forest(X, y, categorical_cols, numeric_cols, n_splits=5)
-
     ## Divideix en train/test
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    ## Entrena el pipeline amb RandomForest
-    pipe = train_random_forest(X_train, y_train, categorical_cols, numeric_cols)
+    # -------------------------------
+    # K-Fold opcional
+    # -------------------------------
+    if args.kfold > 0:
+        if args.model in ["rf", "both"]:
+            print(f"\n=== K-Fold Cross Validation RandomForest ({args.kfold} folds) ===")
+            cross_val_random_forest(X, y, categorical_cols, numeric_cols, n_splits=args.kfold)
+        if args.model in ["xgb", "both"]:
+            print(f"\n=== K-Fold Cross Validation XGBoost ({args.kfold} folds) ===")
+            cross_val_xgboost(X, y, categorical_cols, numeric_cols, n_splits=args.kfold)
 
-    ## Prediccions sobre el conjunt de test
-    y_pred = pipe.predict(X_test)
+    # -------------------------------
+    # Apartat RandomForest
+    # -------------------------------
+    if args.model in ["rf", "both"]:
+        ## Entrena el pipeline amb RandomForest
+        pipe = train_random_forest(X_train, y_train, categorical_cols, numeric_cols)
 
-    ## Avalua el model amb el conjunt de Test
-    regresion_avaluation(y_test, y_pred)
+        ## Prediccions sobre el conjunt de test
+        y_pred = pipe.predict(X_test)
 
-    ## Comprova Overfitting
-    print("\nAnàlisi Overfitting")
-    score_train = pipe.score(X_train, y_train)
-    score_test = pipe.score(X_test, y_test)
-    print(f"R2 Train: {score_train:.4f} | R2 Test: {score_test:.4f}")
-    
-    # Bretxa entre train y test
-    gap = score_train - score_test
-    
-    if gap > 0.10:
-        print(f"Overfitting alt (Diferencia: {gap:.2%}). El model memoriza.")
-    elif gap < 0.05:
-        print(f"Bona generalització (Diferencia: {gap:.2%}).")
-    else:
-        print(f"Overfitting moderat/acceptat (Diferencia: {gap:.2%}).")
+        ## Avalua el model amb el conjunt de Test
+        regresion_avaluation(y_test, y_pred)
 
+        ## Comprova Overfitting
+        print("\nAnàlisi Overfitting")
+        score_train = pipe.score(X_train, y_train)
+        score_test = pipe.score(X_test, y_test)
+        print(f"R2 Train: {score_train:.4f} | R2 Test: {score_test:.4f}")
+        
+        # Bretxa entre train y test
+        gap = score_train - score_test
+        
+        if gap > 0.10:
+            print(f"Overfitting alt (Diferencia: {gap:.2%}). El model memoriza.")
+        elif gap < 0.05:
+            print(f"Bona generalització (Diferencia: {gap:.2%}).")
+        else:
+            print(f"Overfitting moderat/acceptat (Diferencia: {gap:.2%}).")
 
-    ## Mostra les variables més importants segons el model
-    view_var_importance(pipe, categorical_cols, numeric_cols)
+        ## Mostra les variables més importants segons el model
+        view_var_importance(pipe, categorical_cols, numeric_cols)
 
     # -------------------------------
     # Apartat XGBoost
     # -------------------------------
-    print("\n=== K-Fold Cross Validation XGBoost ===")
-    cross_val_xgboost(X, y, categorical_cols, numeric_cols, n_splits=5)
+    if args.model in ["xgb", "both"]:
+        ## Entrena el pipeline amb XGBoost
+        pipe_xgb = train_xgboost(X_train, y_train, categorical_cols, numeric_cols)
 
-    ## Entrena el pipeline amb XGBoost
-    pipe_xgb = train_xgboost(X_train, y_train, categorical_cols, numeric_cols)
+        ## Prediccions sobre el conjunt de test
+        y_pred_xgb = pipe_xgb.predict(X_test)
 
-    ## Prediccions sobre el conjunt de test
-    y_pred_xgb = pipe_xgb.predict(X_test)
+        ## Avalua el model
+        print("\n=== Avaluació XGBoost ===")
+        regresion_avaluation(y_test, y_pred_xgb)
 
-    ## Avalua el model
-    print("\n=== Avaluació XGBoost ===")
-    regresion_avaluation(y_test, y_pred_xgb)
+        ## Comprova Overfitting XGBoost
+        print("\nAnàlisi Overfitting XGBoost")
+        score_train_xgb = pipe_xgb.score(X_train, y_train)
+        score_test_xgb = pipe_xgb.score(X_test, y_test)
+        print(f"R2 Train: {score_train_xgb:.4f} | R2 Test: {score_test_xgb:.4f}")
+        gap_xgb = score_train_xgb - score_test_xgb
+        if gap_xgb > 0.10:
+            print(f"Overfitting alt (Diferencia: {gap_xgb:.2%}). El model memoriza.")
+        elif gap_xgb < 0.05:
+            print(f"Bona generalització (Diferencia: {gap_xgb:.2%}).")
+        else:
+            print(f"Overfitting moderat/acceptat (Diferencia: {gap_xgb:.2%}).")
 
-    ## Comprova Overfitting XGBoost
-    print("\nAnàlisi Overfitting XGBoost")
-    score_train_xgb = pipe_xgb.score(X_train, y_train)
-    score_test_xgb = pipe_xgb.score(X_test, y_test)
-    print(f"R2 Train: {score_train_xgb:.4f} | R2 Test: {score_test_xgb:.4f}")
-    gap_xgb = score_train_xgb - score_test_xgb
-    if gap_xgb > 0.10:
-        print(f"Overfitting alt (Diferencia: {gap_xgb:.2%}). El model memoriza.")
-    elif gap_xgb < 0.05:
-        print(f"Bona generalització (Diferencia: {gap_xgb:.2%}).")
-    else:
-        print(f"Overfitting moderat/acceptat (Diferencia: {gap_xgb:.2%}).")
 if __name__ == "__main__":
     main()
