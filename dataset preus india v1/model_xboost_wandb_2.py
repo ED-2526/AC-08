@@ -9,6 +9,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
+from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error, mean_absolute_percentage_error
 
 # -------------------------------
 # 1. FUNCIONS DE PROCESAMENT
@@ -111,7 +112,7 @@ def ejecutar_experimento(param_name, param_value, X_train, y_train, X_test, y_te
     # Inicia WandB
     run_name = f"XGB_{param_name}_{param_value}"
     run = wandb.init(
-        project="Vols-India-Experiments-MAE",
+        project="Vols-India-Experiments-MAPE-Focus",
         name=run_name,
         reinit=True,
         config=config
@@ -121,7 +122,7 @@ def ejecutar_experimento(param_name, param_value, X_train, y_train, X_test, y_te
 
     preprocessor = ColumnTransformer(
         transformers=[
-            ('cat', OneHotEncoder(handle_unknown='ignore', sparse_output=False), categorical_cols),
+            ('cat', OneHotEncoder(handle_unknown='ignore', sparse=False), categorical_cols),
             ('num', 'passthrough', numeric_cols)
         ]
     )
@@ -140,35 +141,36 @@ def ejecutar_experimento(param_name, param_value, X_train, y_train, X_test, y_te
     try:
         pipe.fit(X_train, y_train)
         
-        # Prediccions (Train i Test)
         y_pred_train = pipe.predict(X_train)
         y_pred_test = pipe.predict(X_test)
         
-        # Mètrica Principal: MAE (Diners)
-        mae_train = mean_absolute_error(y_train, y_pred_train)
-        mae_test = mean_absolute_error(y_test, y_pred_test)
+        # Càlcul de mètriques amb enfoc MAPE
         
-        # Mètrica Secundaria: R2
+        # 1. MAPE Train (Memoria)
+        mape_train = mean_absolute_percentage_error(y_train, y_pred_train) * 100
+        
+        # 2. MAPE Test (Realidad)
+        mape_test = mean_absolute_percentage_error(y_test, y_pred_test) * 100
+        
+        # 3. Gap d'Overfitting
+        overfitting_gap_mape = mape_test - mape_train
+        
+        mae_test = mean_absolute_error(y_test, y_pred_test)
         r2_test = r2_score(y_test, y_pred_test)
         
-        # CÀLCUL OVERFITTING (Basat en MAE)
-        # Gap
-        overfitting_gap_mae = mae_test - mae_train 
-        
-        print(f"MAE Test: {mae_test:.2f} | MAE Train: {mae_train:.2f}")
-        print(f"Overfitting Gap: {overfitting_gap_mae:.2f} rupias")
+        print(f"MAPE Test: {mape_test:.2f}% | MAPE Train: {mape_train:.2f}%")
+        print(f"Gap Overfitting: {overfitting_gap_mape:.2f} puntos")
 
-        # Log a WandB
         wandb.log({
             f"{param_name}": param_value,
+            "MAPE_Test": mape_test,
+            "MAPE_Train": mape_train,
+            "Overfitting_Gap_MAPE": overfitting_gap_mape,
             "MAE_Test": mae_test,
-            "MAE_Train": mae_train,
-            "Overfitting_Gap_MAE": overfitting_gap_mae,
             "R2_Test": r2_test
         })
         
-        # Anàlisi extra només si el model no ha explotat (MAE razonable)
-        if mae_test < 20000:
+        if mape_test < 20:
             analizar_error_por_duracion(X_test, y_test, y_pred_test, run_name)
             
     except Exception as e:
