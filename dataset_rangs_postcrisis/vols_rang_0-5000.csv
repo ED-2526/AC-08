@@ -1,0 +1,1679 @@
+Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Additional_Info,Price,price_range
+SpiceJet,24/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+IndiGo,18/04/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4174,0-5000
+Air India,24/06/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+Vistara,18/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+Vistara,15/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+Vistara,18/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4649,0-5000
+Air Asia,6/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+Air India,3/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 19 Jun,3h,non-stop,No info,3943,0-5000
+Vistara,24/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+Air India,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3625,0-5000
+Air India,21/04/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4880,0-5000
+IndiGo,21/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+SpiceJet,15/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3257,0-5000
+Vistara,12/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+Air India,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+IndiGo,12/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,3/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,20:25,23:10,2h 45m,non-stop,No info,4804,0-5000
+Jet Airways,24/05/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4030,0-5000
+GoAir,27/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+SpiceJet,21/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3311,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,12/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3858,0-5000
+SpiceJet,24/06/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No info,4812,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+Air Asia,12/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+SpiceJet,27/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Vistara,27/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3943,0-5000
+Jet Airways,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,08:45,10:15,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4077,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 28 Apr,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Jet Airways,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+Air Asia,1/05/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+SpiceJet,12/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 25 Apr,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 04 Jun,2h 50m,non-stop,No info,3359,0-5000
+IndiGo,24/06/2019,Delhi,Cochin,DEL ? COK,05:35,08:50,3h 15m,non-stop,No info,5000,0-5000
+Jet Airways,24/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 07 May,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 19 May,2h 40m,non-stop,No info,4804,0-5000
+Vistara,9/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+IndiGo,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+Vistara,27/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+SpiceJet,21/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,14:55,17:25,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,24/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 25 May,2h 55m,non-stop,No info,3971,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 07 Jun,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,27/04/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 16 Jun,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 02 Jun,2h 50m,non-stop,No info,4591,0-5000
+Vistara,27/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 19 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,6/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,3/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 19 Apr,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,21/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Vistara,1/06/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+SpiceJet,1/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+GoAir,18/04/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,4937,0-5000
+IndiGo,27/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+SpiceJet,24/04/2019,Delhi,Cochin,DEL ? BLR ? COK,17:55,22:50,4h 55m,1 stop,No info,4957,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,14:55,17:25,2h 30m,non-stop,No info,3873,0-5000
+Vistara,3/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+Vistara,3/06/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 22 Apr,2h 20m,non-stop,No info,4911,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3717,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+Air India,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+IndiGo,9/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+Vistara,27/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,4423,0-5000
+SpiceJet,21/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+GoAir,24/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3398,0-5000
+Air India,24/04/2019,Kolkata,Banglore,CCU ? BLR,14:15,16:45,2h 30m,non-stop,No info,4880,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+GoAir,15/06/2019,Delhi,Cochin,DEL ? BOM ? COK,10:35,19:35,9h,1 stop,No info,4959,0-5000
+Air Asia,24/04/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+Vistara,18/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4878,0-5000
+IndiGo,21/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,1/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 02 May,2h 55m,non-stop,No info,4991,0-5000
+IndiGo,27/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,15/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 16 Jun,2h 55m,non-stop,No info,3971,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Air India,15/06/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+Air India,12/06/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Vistara,24/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,9/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+Air Asia,24/04/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+GoAir,18/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,3/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 28 May,3h,non-stop,No info,3943,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+GoAir,3/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+Vistara,15/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+IndiGo,18/04/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4174,0-5000
+Jet Airways,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 02 Jun,2h 20m,non-stop,No info,3873,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 28 Apr,2h 20m,non-stop,No info,3873,0-5000
+Jet Airways,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+Air Asia,18/04/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+SpiceJet,27/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3573,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+Jet Airways,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,08:45,10:15,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+Air Asia,27/05/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+SpiceJet,21/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3573,0-5000
+IndiGo,15/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,15:50,18:45,2h 55m,non-stop,In-flight meal not included,3359,0-5000
+IndiGo,15/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 02 Jun,2h 50m,non-stop,No info,3419,0-5000
+Vistara,6/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 10 May,2h 50m,non-stop,No info,3943,0-5000
+Air India,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3625,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,05:30,08:20,2h 50m,non-stop,No info,3943,0-5000
+Vistara,9/06/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,27/06/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No check-in baggage included,4760,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+Jet Airways,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,9/06/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,4205,0-5000
+SpiceJet,18/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Air Asia,6/06/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4508,0-5000
+Vistara,21/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 02 Jun,3h,non-stop,No info,3943,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+SpiceJet,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,2175,0-5000
+Air India,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 19 May,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 19 Jun,2h 50m,non-stop,No info,3943,0-5000
+Air India,21/06/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4990,0-5000
+SpiceJet,15/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+SpiceJet,27/06/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No info,4812,0-5000
+SpiceJet,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 16 May,1h 30m,non-stop,No info,2017,0-5000
+Jet Airways,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,08:45,10:15,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+Jet Airways,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,2228,0-5000
+SpiceJet,9/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+Air India,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+IndiGo,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,6/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+IndiGo,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+Vistara,1/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+Jet Airways,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+Vistara,9/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 28 May,2h 50m,non-stop,No info,3943,0-5000
+Air India,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4649,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 25 Jun,2h 40m,non-stop,No info,4804,0-5000
+SpiceJet,27/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 04 May,2h 50m,non-stop,No info,4591,0-5000
+GoAir,24/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3419,0-5000
+IndiGo,1/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:10,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,27/04/2019,Delhi,Cochin,DEL ? BLR ? COK,17:55,22:50,4h 55m,1 stop,No info,4957,0-5000
+Air Asia,21/05/2019,Kolkata,Banglore,CCU ? BLR,09:45,12:15,2h 30m,non-stop,No info,4409,0-5000
+IndiGo,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+Vistara,27/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+Air Asia,21/05/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4107,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+Air India,15/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+SpiceJet,18/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,24/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3919,0-5000
+Vistara,1/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4878,0-5000
+GoAir,3/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+Air Asia,6/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 07 May,2h 50m,non-stop,No info,3383,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,15:40,18:25,2h 45m,non-stop,No info,3540,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,6/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+Air India,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 25 May,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,15:15,20:05,4h 50m,1 stop,No info,4775,0-5000
+Jet Airways,24/04/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,18/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,21/04/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 19 May,2h 50m,non-stop,No info,4591,0-5000
+Jet Airways,24/06/2019,Delhi,Cochin,DEL ? COK,11:00,14:15,3h 15m,non-stop,In-flight meal not included,4256,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4911,0-5000
+SpiceJet,15/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,6/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+IndiGo,3/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,6/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,3702,0-5000
+Air Asia,24/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Jet Airways,1/05/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4030,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,3502,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,14:55,17:25,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+IndiGo,9/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 10 Jun,2h 40m,non-stop,No info,4804,0-5000
+SpiceJet,9/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 10 Jun,2h 55m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 16 May,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 04 Jun,2h 50m,non-stop,No info,4591,0-5000
+SpiceJet,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,18/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+SpiceJet,21/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+Jet Airways,27/04/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+Air Asia,18/06/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 19 Jun,2h 50m,non-stop,No info,3383,0-5000
+IndiGo,12/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4077,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+Jet Airways,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+IndiGo,24/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,9/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,9/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4991,0-5000
+SpiceJet,18/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+GoAir,27/06/2019,Kolkata,Banglore,CCU ? BLR,15:20,17:55,2h 35m,non-stop,No info,3514,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+Air Asia,24/05/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+SpiceJet,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 25 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 04 Jun,3h,non-stop,No info,3943,0-5000
+SpiceJet,15/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4319,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4423,0-5000
+Air India,1/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Air Asia,24/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 25 May,2h 50m,non-stop,No info,4483,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Air Asia,15/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 16 May,2h 50m,non-stop,No info,3383,0-5000
+SpiceJet,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,27/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+Jet Airways,21/04/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,12/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+GoAir,6/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+IndiGo,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,3/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,27/06/2019,Delhi,Cochin,DEL ? COK,05:35,08:50,3h 15m,non-stop,No info,5000,0-5000
+SpiceJet,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,6/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+SpiceJet,9/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 10 May,2h 55m,non-stop,No info,4423,0-5000
+IndiGo,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+SpiceJet,9/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,27/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,20:25,23:10,2h 45m,non-stop,No info,4804,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+SpiceJet,21/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Jet Airways,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,01:40,03:10,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,21/06/2019,Delhi,Cochin,DEL ? COK,05:35,08:50,3h 15m,non-stop,No info,5000,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,01:40,03:10,1h 30m,non-stop,No info,2754,0-5000
+Vistara,1/05/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+Air Asia,21/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4107,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 28 May,2h 50m,non-stop,No info,3749,0-5000
+SpiceJet,9/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 10 Jun,2h 55m,non-stop,No info,3971,0-5000
+SpiceJet,15/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+GoAir,1/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,4340,0-5000
+Air Asia,15/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Jet Airways,6/05/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+Jet Airways,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,27/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+IndiGo,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2437,0-5000
+SpiceJet,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 07 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+GoAir,24/04/2019,Delhi,Cochin,DEL ? AMD ? COK,07:25,13:35,6h 10m,1 stop,No info,4692,0-5000
+SpiceJet,21/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 16 Jun,3h,non-stop,No info,3943,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Air India,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+Jet Airways,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4050,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+Jet Airways,9/05/2019,Banglore,Delhi,BLR ? DEL,08:20,11:20,3h,non-stop,In-flight meal not included,4544,0-5000
+SpiceJet,24/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2227,0-5000
+Jet Airways,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,2647,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 28 Jun,3h,non-stop,No info,3943,0-5000
+SpiceJet,12/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3257,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 04 Jun,2h 35m,non-stop,No info,4804,0-5000
+GoAir,6/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+GoAir,6/06/2019,Delhi,Cochin,DEL ? BOM ? COK,10:35,19:35,9h,1 stop,No info,4959,0-5000
+SpiceJet,18/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+SpiceJet,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,2175,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3809,0-5000
+Jet Airways,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,24/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+Jet Airways,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+Jet Airways,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+Jet Airways,9/05/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,3702,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,24/04/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 25 Apr,2h 55m,non-stop,No check-in baggage included,3573,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Air Asia,12/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 13 May,2h 50m,non-stop,No info,4483,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:35,23:15,3h 40m,1 stop,No info,4226,0-5000
+IndiGo,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+Jet Airways,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,2759,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+Air India,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 22 Jun,2h 50m,non-stop,No info,3943,0-5000
+Air India,3/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+IndiGo,27/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 28 May,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,3342,0-5000
+Vistara,12/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 19 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+GoAir,15/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3398,0-5000
+Air Asia,18/04/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+Vistara,27/05/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+Air India,24/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+SpiceJet,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,2647,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 10 May,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+Vistara,21/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,2647,0-5000
+Jet Airways,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:45,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,4423,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+SpiceJet,18/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 19 Jun,2h 55m,non-stop,No info,3971,0-5000
+SpiceJet,6/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3573,0-5000
+Air Asia,27/04/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4409,0-5000
+Jet Airways,27/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+Jet Airways,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4050,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+SpiceJet,27/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+SpiceJet,15/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+Vistara,9/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+GoAir,15/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3419,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,3419,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 22 May,2h 55m,non-stop,No info,3625,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,4807,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4990,0-5000
+GoAir,1/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3898,0-5000
+SpiceJet,9/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+GoAir,27/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3398,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,4174,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,3419,0-5000
+Jet Airways,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,27/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,12/05/2019,Delhi,Cochin,DEL ? COK,14:25,17:40,3h 15m,non-stop,No info,5000,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,27/04/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4885,0-5000
+SpiceJet,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 22 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 16 Jun,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,27/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+Vistara,6/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 19 Apr,3h,non-stop,No info,4591,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 13 May,3h,non-stop,No info,3943,0-5000
+IndiGo,15/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+SpiceJet,12/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4319,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+IndiGo,21/04/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+Vistara,27/05/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+Vistara,27/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,10:30,13:20,2h 50m,non-stop,No info,3943,0-5000
+Vistara,6/05/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+Air India,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,3/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3850,0-5000
+Jet Airways,21/06/2019,Delhi,Cochin,DEL ? COK,11:00,14:15,3h 15m,non-stop,In-flight meal not included,4256,0-5000
+Air India,1/06/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,4439,0-5000
+IndiGo,21/04/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+Jet Airways,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 25 May,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 22 Jun,2h 35m,non-stop,No info,4804,0-5000
+Air India,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3625,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Air India,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3625,0-5000
+Jet Airways,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+GoAir,6/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3398,0-5000
+GoAir,24/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+GoAir,6/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 07 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,4423,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+SpiceJet,27/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,18/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+SpiceJet,6/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 07 Jun,2h 55m,non-stop,No info,3311,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 28 Apr,3h,non-stop,No info,3943,0-5000
+SpiceJet,12/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+IndiGo,3/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4591,0-5000
+Jet Airways,24/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,18/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+Air Asia,24/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,3807,0-5000
+SpiceJet,3/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 04 May,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,18/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 25 May,2h 35m,non-stop,No info,4804,0-5000
+Air Asia,1/06/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3943,0-5000
+Jet Airways,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,2228,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+SpiceJet,9/05/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No info,4812,0-5000
+GoAir,6/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 16 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,18/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Vistara,12/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 02 May,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:35,23:15,3h 40m,1 stop,No info,4226,0-5000
+Jet Airways,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,4423,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4423,0-5000
+SpiceJet,3/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+IndiGo,1/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 22 Apr,3h,non-stop,No info,4423,0-5000
+Jet Airways,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+Jet Airways,21/04/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,4544,0-5000
+Air Asia,27/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 28 May,2h 30m,non-stop,No info,3807,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4575,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+GoAir,15/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3898,0-5000
+SpiceJet,24/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,24/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+GoAir,21/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3898,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 22 Jun,2h 20m,non-stop,No info,3873,0-5000
+SpiceJet,27/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,4423,0-5000
+Jet Airways,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,3210,0-5000
+GoAir,21/04/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,4632,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 10 May,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+Air Asia,15/06/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 02 May,1h 30m,non-stop,No info,2017,0-5000
+Air Asia,1/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 02 Jun,2h 30m,non-stop,No info,4409,0-5000
+Jet Airways,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+Air India,27/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,21/04/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,6/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,1/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+Vistara,18/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+Vistara,15/05/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+IndiGo,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+Air Asia,6/05/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4409,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4649,0-5000
+Air India,1/06/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,27/05/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,18/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+Jet Airways,6/05/2019,Banglore,Delhi,BLR ? DEL,08:20,11:20,3h,non-stop,In-flight meal not included,4544,0-5000
+SpiceJet,9/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 16 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+SpiceJet,9/05/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No check-in baggage included,4760,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,27/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,4319,0-5000
+IndiGo,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+GoAir,3/06/2019,Delhi,Cochin,DEL ? BOM ? COK,10:35,19:35,9h,1 stop,No info,4959,0-5000
+Air India,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 07 Jun,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,18/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4319,0-5000
+SpiceJet,3/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+SpiceJet,9/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3859,0-5000
+Air Asia,24/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 25 Jun,2h 30m,non-stop,No info,3807,0-5000
+Air India,24/04/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+SpiceJet,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+Air India,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+Air Asia,27/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,3807,0-5000
+Air Asia,6/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+GoAir,12/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+Jet Airways,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,9/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+Air Asia,12/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,3807,0-5000
+Vistara,24/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,4591,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+Air India,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+Air India,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3625,0-5000
+SpiceJet,15/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 16 Jun,2h 55m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,3/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 28 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Air Asia,9/05/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+Vistara,27/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,18/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3573,0-5000
+IndiGo,21/04/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 22 Apr,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,6/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+Air Asia,15/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4107,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3943,0-5000
+Jet Airways,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,3210,0-5000
+IndiGo,18/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 10 Jun,2h 50m,non-stop,No info,3749,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3943,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 07 Jun,2h 20m,non-stop,No info,3873,0-5000
+Vistara,15/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Vistara,21/05/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4591,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,3/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4077,0-5000
+Vistara,15/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+SpiceJet,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2227,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3603,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,3/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 04 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,24/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+Air India,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+Vistara,3/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,1/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 02 Jun,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,6/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,6/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+SpiceJet,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+Jet Airways,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+Vistara,1/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 22 Jun,1h 30m,non-stop,No info,2017,0-5000
+Vistara,6/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,27/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3311,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,9/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 10 May,2h 55m,non-stop,No check-in baggage included,4319,0-5000
+IndiGo,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4392,0-5000
+SpiceJet,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+Air Asia,21/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Air India,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,27/06/2019,Delhi,Cochin,DEL ? BLR ? COK,17:55,22:50,4h 55m,1 stop,No info,4957,0-5000
+GoAir,27/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,4392,0-5000
+SpiceJet,9/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,1/05/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,21/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3625,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,21/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 04 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,27/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,3502,0-5000
+SpiceJet,18/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,4319,0-5000
+GoAir,3/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+SpiceJet,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 13 May,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 07 May,3h,non-stop,No info,3943,0-5000
+Air Asia,3/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 04 May,2h 50m,non-stop,No info,4483,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 19 Jun,2h 50m,non-stop,No info,3419,0-5000
+GoAir,15/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+IndiGo,27/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+Air Asia,27/04/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 28 Apr,2h 50m,non-stop,No info,3383,0-5000
+Air India,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+Air India,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+Air Asia,21/06/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+GoAir,18/05/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,4340,0-5000
+Air India,6/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+IndiGo,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,4784,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 19 Jun,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 04 May,2h 50m,non-stop,No info,4284,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+Air India,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+Jet Airways,21/04/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4544,0-5000
+SpiceJet,6/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+SpiceJet,24/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,15:15,20:05,4h 50m,1 stop,No info,4775,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:15,10:45,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+Vistara,18/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,6/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+GoAir,1/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+GoAir,24/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+GoAir,1/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+GoAir,27/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3419,0-5000
+SpiceJet,24/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3257,0-5000
+SpiceJet,6/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3311,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,6/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3859,0-5000
+IndiGo,3/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 04 May,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,6/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,15/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 16 May,2h 40m,non-stop,No info,4804,0-5000
+Air India,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+Air India,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+Air Asia,3/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 22 Jun,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+Air India,27/06/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+SpiceJet,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,18/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 19 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,18/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 19 Apr,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+Vistara,6/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,3/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+Vistara,1/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 25 Apr,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,21/04/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4885,0-5000
+Air Asia,21/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Jet Airways,27/04/2019,Banglore,Delhi,BLR ? DEL,07:10,10:10,3h,non-stop,In-flight meal not included,4544,0-5000
+GoAir,3/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,3/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+SpiceJet,3/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 04 Jun,2h 55m,non-stop,No info,3311,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+Air India,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+IndiGo,15/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+Vistara,24/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+Air India,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+SpiceJet,24/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3573,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4649,0-5000
+Air India,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+SpiceJet,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 04 Jun,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,15/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4885,0-5000
+IndiGo,9/06/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,9/05/2019,Delhi,Cochin,DEL ? COK,05:35,08:50,3h 15m,non-stop,No info,5000,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:15,10:45,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+IndiGo,18/04/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 19 Apr,2h 40m,non-stop,No info,4174,0-5000
+IndiGo,12/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+Air Asia,18/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,3807,0-5000
+IndiGo,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,4392,0-5000
+SpiceJet,6/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4491,0-5000
+IndiGo,1/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 02 Jun,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,10:30,13:20,2h 50m,non-stop,No info,4423,0-5000
+Air India,9/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+Air Asia,24/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 25 May,2h 30m,non-stop,No info,4107,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,21/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 22 May,2h 55m,non-stop,No check-in baggage included,3573,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 16 Jun,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,15:15,20:05,4h 50m,1 stop,No info,4775,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,18/05/2019,Chennai,Kolkata,MAA ? CCU,15:40,18:25,2h 45m,non-stop,No info,3850,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+Vistara,9/06/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4990,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 28 Jun,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,3/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+SpiceJet,24/06/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No check-in baggage included,4760,0-5000
+Air Asia,21/06/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,3807,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 16 Jun,2h 50m,non-stop,No info,4077,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 25 Apr,2h 40m,non-stop,No info,4804,0-5000
+Jet Airways,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+SpiceJet,18/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Air Asia,21/04/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 19 May,2h 20m,non-stop,No info,3873,0-5000
+SpiceJet,24/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 25 Jun,2h 55m,non-stop,No info,3971,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,12/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,24/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3858,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4990,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,3419,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,4392,0-5000
+Air India,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+SpiceJet,12/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 13 May,2h 55m,non-stop,No info,4423,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+Vistara,6/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+Vistara,24/06/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4990,0-5000
+IndiGo,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+Vistara,21/05/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+Vistara,27/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,12/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3311,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:45,2h 50m,non-stop,No info,4823,0-5000
+GoAir,15/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:35,23:15,3h 40m,1 stop,No info,4226,0-5000
+Jet Airways,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 25 May,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,3/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,14:55,17:25,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,18/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 28 Apr,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+GoAir,24/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+SpiceJet,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,2385,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+SpiceJet,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+Vistara,21/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,04:50,09:50,5h,1 stop,No info,4176,0-5000
+IndiGo,12/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,27/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,2175,0-5000
+Vistara,15/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4878,0-5000
+SpiceJet,3/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,3/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 02 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,9/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 22 May,2h 50m,non-stop,No info,3625,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3419,0-5000
+IndiGo,24/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3850,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 22 Jun,3h,non-stop,No info,3943,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,18/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Vistara,18/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4423,0-5000
+SpiceJet,27/04/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 28 Apr,2h 55m,non-stop,No info,3971,0-5000
+Air India,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+Jet Airways,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,3210,0-5000
+SpiceJet,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,21/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Jet Airways,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,2228,0-5000
+GoAir,24/06/2019,Kolkata,Banglore,CCU ? BLR,15:20,17:55,2h 35m,non-stop,No info,3514,0-5000
+SpiceJet,1/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,6/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 07 May,2h 55m,non-stop,No check-in baggage included,3573,0-5000
+Vistara,15/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,27/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+SpiceJet,6/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 07 Jun,2h 55m,non-stop,No check-in baggage included,3257,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 16 May,3h,non-stop,No info,3943,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+SpiceJet,9/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3911,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,27/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,12/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+Air Asia,18/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Jet Airways,3/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:10,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,21/06/2019,Delhi,Cochin,DEL ? COK,14:25,17:40,3h 15m,non-stop,No info,5000,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 25 May,3h,non-stop,No info,3943,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,21/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,4423,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 13 May,2h 40m,non-stop,No info,4804,0-5000
+SpiceJet,1/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+Air Asia,27/04/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+Jet Airways,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,1/06/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 28 Apr,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:35,23:15,3h 40m,1 stop,No info,4226,0-5000
+IndiGo,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3809,0-5000
+IndiGo,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+GoAir,27/04/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3898,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 02 May,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 25 May,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,20:25,23:10,2h 45m,non-stop,No info,4804,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Vistara,3/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,15/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+SpiceJet,27/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 28 Jun,2h 55m,non-stop,No check-in baggage included,4319,0-5000
+Jet Airways,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,15/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 25 Apr,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 02 May,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,24/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+SpiceJet,27/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3257,0-5000
+SpiceJet,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Air India,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+SpiceJet,6/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 10 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,1/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+SpiceJet,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2437,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,18:15,21:20,3h 5m,non-stop,No info,4990,0-5000
+Jet Airways,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+Air India,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+SpiceJet,18/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4423,0-5000
+Air Asia,27/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 28 Jun,2h 30m,non-stop,No info,3807,0-5000
+SpiceJet,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,2175,0-5000
+Jet Airways,1/05/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,9/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3573,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,4205,0-5000
+Jet Airways,1/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3419,0-5000
+Air Asia,21/06/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 22 Jun,2h 50m,non-stop,No info,3383,0-5000
+IndiGo,21/04/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+Air Asia,27/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,3383,0-5000
+SpiceJet,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,18/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? HYD ? BLR,15:15,20:05,4h 50m,1 stop,No info,4565,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,07:10,12:40,5h 30m,1 stop,No info,4864,0-5000
+Air Asia,12/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? MAA ? BLR,19:35,00:10 25 Apr,4h 35m,1 stop,No info,4860,0-5000
+SpiceJet,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 22 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,4439,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,4284,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,9/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,27/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,21/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+SpiceJet,6/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,21/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+SpiceJet,1/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+Jet Airways,6/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,24/04/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+Air India,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+Vistara,12/06/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Air India,21/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,6/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3971,0-5000
+SpiceJet,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,4423,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4491,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 13 May,2h 50m,non-stop,No info,4591,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+Air India,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3625,0-5000
+GoAir,24/06/2019,Delhi,Cochin,DEL ? BOM ? COK,10:35,19:35,9h,1 stop,No info,3876,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,4030,0-5000
+Vistara,9/05/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+Air Asia,24/06/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+Vistara,18/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+IndiGo,18/04/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4174,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+SpiceJet,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 28 May,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4591,0-5000
+SpiceJet,9/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:55,23:50,3h 55m,1 stop,No info,4226,0-5000
+Air Asia,3/06/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 10 Jun,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 10 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,24/04/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3919,0-5000
+Air Asia,18/04/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+SpiceJet,24/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Jet Airways,12/05/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,3/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 04 May,2h 55m,non-stop,No info,4991,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 22 Apr,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,18:15,21:20,3h 5m,non-stop,No info,4823,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,24/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 25 May,2h 55m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+SpiceJet,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3838,0-5000
+SpiceJet,27/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,3/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+Vistara,18/05/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4077,0-5000
+GoAir,9/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+GoAir,18/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,4239,0-5000
+SpiceJet,18/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+GoAir,24/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+IndiGo,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+SpiceJet,21/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3971,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 22 May,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+Air Asia,24/04/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,3383,0-5000
+GoAir,3/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,4239,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,12/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+SpiceJet,15/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Air India,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,4284,0-5000
+Vistara,6/05/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+GoAir,27/06/2019,Delhi,Cochin,DEL ? BOM ? COK,10:35,19:35,9h,1 stop,No info,3948,0-5000
+Vistara,1/06/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+Air Asia,12/06/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,3807,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 19 Apr,2h 50m,non-stop,No info,4591,0-5000
+Air India,12/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4880,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 07 May,2h 50m,non-stop,No info,4077,0-5000
+GoAir,18/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,4632,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3480,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3419,0-5000
+SpiceJet,24/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Air Asia,12/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,3943,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4491,0-5000
+IndiGo,27/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+IndiGo,9/06/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+Jet Airways,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,24/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+Air India,12/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+SpiceJet,1/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+Jet Airways,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+IndiGo,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4575,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+Air Asia,24/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,3383,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 25 Jun,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+Air Asia,6/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4508,0-5000
+Air India,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,1/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 02 Jun,2h 55m,non-stop,No check-in baggage included,3573,0-5000
+Air Asia,15/05/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4409,0-5000
+Jet Airways,24/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:10,3h,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,12/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4649,0-5000
+SpiceJet,27/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Vistara,24/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+SpiceJet,27/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 28 May,2h 55m,non-stop,No check-in baggage included,3257,0-5000
+Jet Airways,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4050,0-5000
+SpiceJet,24/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3859,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3419,0-5000
+SpiceJet,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2227,0-5000
+Air India,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Jet Airways,27/05/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,3359,0-5000
+SpiceJet,3/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 04 Jun,2h 55m,non-stop,No check-in baggage included,3257,0-5000
+Air Asia,18/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Vistara,1/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+Vistara,6/05/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3574,0-5000
+IndiGo,12/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,1/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,24/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:35,23:15,3h 40m,1 stop,No info,4226,0-5000
+IndiGo,9/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+IndiGo,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,16:55,18:25,1h 30m,non-stop,No info,3175,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:10,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+SpiceJet,18/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3257,0-5000
+Air India,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,3/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3971,0-5000
+SpiceJet,15/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,24/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 25 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,9/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 10 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:10,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+IndiGo,1/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3850,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4591,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+Air India,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+Vistara,9/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,4990,0-5000
+IndiGo,27/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,1/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 07 May,2h 50m,non-stop,No info,3419,0-5000
+Jet Airways,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 07 Jun,2h 50m,non-stop,No info,4591,0-5000
+SpiceJet,3/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+Air Asia,1/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,10:30,13:20,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,15/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+Air Asia,24/04/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4107,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+GoAir,12/06/2019,Delhi,Cochin,DEL ? BOM ? COK,10:35,19:35,9h,1 stop,No info,4959,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 16 Jun,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,3/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3859,0-5000
+Air Asia,15/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 16 Jun,2h 30m,non-stop,No info,3807,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 19 May,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 02 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4030,0-5000
+SpiceJet,18/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+Jet Airways,3/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4990,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 25 May,2h 50m,non-stop,No info,3419,0-5000
+IndiGo,9/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,3/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Air Asia,9/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,15/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+Vistara,1/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,6/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,14:55,17:25,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+SpiceJet,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,24/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3625,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 13 Jun,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,19:35,23:15,3h 40m,1 stop,No info,4226,0-5000
+Vistara,9/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+Vistara,24/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+Vistara,12/05/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,9/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 28 Jun,2h 40m,non-stop,No info,4804,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+Vistara,1/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+Air India,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,27/04/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4991,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+SpiceJet,6/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3911,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,24/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3971,0-5000
+IndiGo,6/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,12/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,4423,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 28 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,6/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 07 May,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,20:25,23:10,2h 45m,non-stop,No info,4804,0-5000
+SpiceJet,18/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Air Asia,6/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,18/05/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,1/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,09:10,10:40,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,27/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,15/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+Air Asia,9/06/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4409,0-5000
+IndiGo,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+SpiceJet,18/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,9/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+SpiceJet,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 07 May,1h 30m,non-stop,No check-in baggage included,2175,0-5000
+Air India,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+IndiGo,24/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+SpiceJet,27/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+Air Asia,1/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 02 May,2h 50m,non-stop,No info,4483,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+Air India,15/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+Air India,18/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4880,0-5000
+SpiceJet,6/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,3/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+Air India,3/06/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+Air Asia,18/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 19 May,2h 30m,non-stop,No info,4409,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,23:30,02:20 22 Jun,2h 50m,non-stop,No info,4077,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3419,0-5000
+SpiceJet,1/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3971,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+Vistara,27/05/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,4591,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+GoAir,1/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3898,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,1/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+Air India,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,9/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 22 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 10 May,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,12/05/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,4332,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,3/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,4284,0-5000
+IndiGo,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2437,0-5000
+SpiceJet,18/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 19 Apr,2h 20m,non-stop,No info,4174,0-5000
+SpiceJet,24/04/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No info,4812,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,07:10,12:40,5h 30m,1 stop,No info,4864,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 28 Jun,2h 20m,non-stop,No info,3873,0-5000
+SpiceJet,18/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+Air Asia,21/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 22 Jun,2h 30m,non-stop,No info,3807,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,06:05,08:50,2h 45m,non-stop,No info,4423,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+SpiceJet,15/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+IndiGo,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,3342,0-5000
+SpiceJet,3/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+Jet Airways,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+Vistara,21/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+SpiceJet,15/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,9/05/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,3502,0-5000
+IndiGo,27/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+IndiGo,12/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 13 May,2h 50m,non-stop,No info,4284,0-5000
+Jet Airways,12/05/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,3502,0-5000
+IndiGo,24/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,3175,0-5000
+SpiceJet,9/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+Vistara,12/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,27/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+Jet Airways,27/04/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,3/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3858,0-5000
+Air Asia,18/06/2019,Kolkata,Banglore,CCU ? BLR,09:45,12:15,2h 30m,non-stop,No info,3807,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 07 Jun,3h,non-stop,No info,3943,0-5000
+Jet Airways,21/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:10,3h,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,18/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,24/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+Jet Airways,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+SpiceJet,1/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 28 Jun,2h 50m,non-stop,No info,3419,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 10 Jun,3h,non-stop,No info,3943,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+SpiceJet,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 13 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,18/05/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3858,0-5000
+Air Asia,21/04/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+Jet Airways,27/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:10,3h,non-stop,In-flight meal not included,4030,0-5000
+Air Asia,9/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 10 May,2h 30m,non-stop,No info,3807,0-5000
+SpiceJet,21/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 16 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+IndiGo,9/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+GoAir,24/04/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+Vistara,12/06/2019,Banglore,Delhi,BLR ? DEL,19:30,22:15,2h 45m,non-stop,No info,4878,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+Air India,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 02 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,27/04/2019,Banglore,Delhi,BLR ? DEL,17:45,20:45,3h,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+Air India,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,15/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3311,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,6/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+Jet Airways,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+Jet Airways,27/05/2019,Banglore,Delhi,BLR ? DEL,08:20,11:20,3h,non-stop,In-flight meal not included,4030,0-5000
+Air India,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+IndiGo,24/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3943,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,4423,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4392,0-5000
+Air Asia,27/04/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+SpiceJet,24/06/2019,Delhi,Cochin,DEL ? BLR ? COK,17:55,22:50,4h 55m,1 stop,No info,4957,0-5000
+Air Asia,3/06/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+SpiceJet,6/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 07 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+Jet Airways,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,21/04/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4991,0-5000
+SpiceJet,27/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3573,0-5000
+Air Asia,21/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,3383,0-5000
+Air India,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+IndiGo,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+Air Asia,3/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 04 Jun,2h 30m,non-stop,No info,4409,0-5000
+IndiGo,27/04/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,1/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+Air Asia,27/06/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 28 Jun,2h 50m,non-stop,No info,3383,0-5000
+SpiceJet,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 19 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,24/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,24/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+Air Asia,12/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 13 May,2h 30m,non-stop,No info,4409,0-5000
+SpiceJet,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+Jet Airways,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+Air Asia,15/06/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+SpiceJet,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,15:15,20:30,5h 15m,1 stop,No info,4565,0-5000
+Vistara,3/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,3210,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 13 Jun,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,1/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,15:40,18:25,2h 45m,non-stop,No info,3540,0-5000
+Air Asia,24/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Air Asia,18/04/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 19 Apr,2h 30m,non-stop,No info,4409,0-5000
+IndiGo,9/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+Vistara,6/06/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+Air India,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3625,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,4423,0-5000
+Air India,6/06/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+IndiGo,3/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Air India,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+Vistara,6/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+SpiceJet,1/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+IndiGo,9/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3943,0-5000
+Vistara,18/05/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,6/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,21/06/2019,Banglore,Delhi,BLR ? DEL,13:00,15:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4963,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 25 Apr,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,18/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,27/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+GoAir,18/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3419,0-5000
+Air India,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,2647,0-5000
+SpiceJet,15/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+SpiceJet,21/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 22 Apr,2h 20m,non-stop,No check-in baggage included,4807,0-5000
+SpiceJet,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Air Asia,1/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+Vistara,15/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4878,0-5000
+SpiceJet,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2227,0-5000
+Jet Airways,18/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,6/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,24/04/2019,Banglore,Delhi,BLR ? DEL,18:55,22:00,3h 5m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,21/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+Vistara,1/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4878,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,24/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3625,0-5000
+IndiGo,15/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,15/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4990,0-5000
+Jet Airways,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+GoAir,3/06/2019,Delhi,Cochin,DEL ? BOM ? COK,07:00,12:55,5h 55m,1 stop,No info,4959,0-5000
+IndiGo,1/05/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,24/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,1/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+Jet Airways,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+SpiceJet,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+SpiceJet,27/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 28 May,2h 55m,non-stop,No info,3311,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 22 May,2h 40m,non-stop,No info,4804,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+SpiceJet,24/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+Vistara,12/06/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,24/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3625,0-5000
+IndiGo,3/06/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+Air India,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,24/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,3311,0-5000
+Air Asia,18/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 19 May,2h 50m,non-stop,No info,4483,0-5000
+IndiGo,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+SpiceJet,18/04/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No info,3873,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,14:45,17:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,27/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3573,0-5000
+IndiGo,3/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,18/06/2019,Delhi,Cochin,DEL ? COK,05:35,08:50,3h 15m,non-stop,No info,5000,0-5000
+Jet Airways,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4995,0-5000
+SpiceJet,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,4174,0-5000
+Vistara,12/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,1/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+Air Asia,15/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+Air Asia,15/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 16 May,2h 30m,non-stop,No info,4107,0-5000
+IndiGo,6/06/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 07 Jun,2h 40m,non-stop,No info,4804,0-5000
+GoAir,12/05/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3419,0-5000
+Vistara,3/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+SpiceJet,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 25 May,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+IndiGo,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:25,07:55,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,18/05/2019,Kolkata,Banglore,CCU ? BLR,20:20,22:55,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,3/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,18/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+SpiceJet,24/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,01:40,03:10,1h 30m,non-stop,No info,2754,0-5000
+Vistara,12/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 04 May,3h,non-stop,No info,3943,0-5000
+Vistara,27/06/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4878,0-5000
+Air India,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3625,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+Jet Airways,24/05/2019,Banglore,Delhi,BLR ? DEL,08:20,11:20,3h,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,27/06/2019,Delhi,Cochin,DEL ? COK,14:25,17:40,3h 15m,non-stop,No info,5000,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? BBI ? BLR,07:10,12:40,5h 30m,1 stop,No info,4864,0-5000
+Air Asia,3/06/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,4483,0-5000
+Air India,12/06/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+Air Asia,21/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 22 May,2h 30m,non-stop,No info,4107,0-5000
+Jet Airways,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,3210,0-5000
+SpiceJet,1/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4649,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,3/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+GoAir,27/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3419,0-5000
+Air India,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:55,15:25,1h 30m,non-stop,No info,3100,0-5000
+Jet Airways,24/04/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,4544,0-5000
+Jet Airways,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+Jet Airways,27/04/2019,Banglore,Delhi,BLR ? DEL,19:50,22:50,3h,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,18/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,18/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3573,0-5000
+SpiceJet,15/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,3/05/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3943,0-5000
+IndiGo,9/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Vistara,6/06/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+GoAir,27/06/2019,Delhi,Cochin,DEL ? AMD ? COK,07:25,13:35,6h 10m,1 stop,No info,4525,0-5000
+SpiceJet,9/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,9/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,9/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,12/06/2019,Delhi,Cochin,DEL ? BLR ? COK,17:55,22:50,4h 55m,1 stop,No info,4957,0-5000
+SpiceJet,15/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,21/04/2019,Kolkata,Banglore,CCU ? BLR,21:25,00:05 22 Apr,2h 40m,non-stop,No info,4804,0-5000
+SpiceJet,18/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+Air Asia,21/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 22 May,2h 50m,non-stop,No info,3383,0-5000
+Vistara,9/05/2019,Banglore,Delhi,BLR ? DEL,09:45,12:35,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,6/05/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+Vistara,27/05/2019,Banglore,Delhi,BLR ? DEL,07:00,09:40,2h 40m,non-stop,No info,4668,0-5000
+Jet Airways,1/05/2019,Banglore,Delhi,BLR ? DEL,11:10,14:05,2h 55m,non-stop,In-flight meal not included,4030,0-5000
+Air Asia,6/06/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+GoAir,24/06/2019,Delhi,Cochin,DEL ? AMD ? COK,07:25,13:35,6h 10m,1 stop,No info,4692,0-5000
+Air Asia,15/05/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+IndiGo,9/05/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,15/05/2019,Banglore,Delhi,BLR ? DEL,08:20,11:20,3h,non-stop,In-flight meal not included,4030,0-5000
+Air Asia,1/05/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 02 May,2h 30m,non-stop,No info,4409,0-5000
+SpiceJet,21/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+Air Asia,18/06/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 19 Jun,2h 30m,non-stop,No info,3807,0-5000
+IndiGo,24/06/2019,Delhi,Cochin,DEL ? COK,14:20,17:35,3h 15m,non-stop,No info,5000,0-5000
+Jet Airways,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+IndiGo,6/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3809,0-5000
+IndiGo,6/05/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+GoAir,12/06/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3419,0-5000
+Air India,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+Air Asia,21/04/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 22 Apr,2h 50m,non-stop,No info,4483,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+IndiGo,27/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+Air Asia,27/05/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 28 May,2h 50m,non-stop,No info,3383,0-5000
+SpiceJet,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 02 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Air Asia,3/05/2019,Kolkata,Banglore,CCU ? BLR,10:20,12:55,2h 35m,non-stop,No info,4409,0-5000
+Air Asia,27/04/2019,Kolkata,Banglore,CCU ? BLR,22:50,01:20 28 Apr,2h 30m,non-stop,No info,4409,0-5000
+IndiGo,15/05/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 16 May,2h 50m,non-stop,No info,3419,0-5000
+Vistara,3/06/2019,Banglore,Delhi,BLR ? DEL,17:00,19:35,2h 35m,non-stop,No info,4878,0-5000
+SpiceJet,3/06/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+Air Asia,15/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+SpiceJet,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 04 May,1h 30m,non-stop,No info,2227,0-5000
+SpiceJet,9/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4885,0-5000
+IndiGo,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,09:15,10:45,1h 30m,non-stop,No info,4049,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,00:30,03:25,2h 55m,non-stop,No info,3419,0-5000
+SpiceJet,9/06/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,6/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,12/05/2019,Chennai,Kolkata,MAA ? CCU,08:20,10:35,2h 15m,non-stop,No info,3597,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 10 Jun,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+SpiceJet,3/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,24/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,21/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,21/04/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,4319,0-5000
+Jet Airways,27/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,21/05/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,1/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,27/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 28 May,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,15/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No info,4423,0-5000
+SpiceJet,27/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3625,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4963,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:05,2h 55m,non-stop,No info,4823,0-5000
+IndiGo,9/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+GoAir,12/05/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,3898,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,00:25,03:15,2h 50m,non-stop,No info,4077,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,9/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,3/06/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+IndiGo,24/05/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,6/05/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No info,3597,0-5000
+SpiceJet,27/06/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No info,3873,0-5000
+Air India,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,17:10,19:40,2h 30m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,9/05/2019,Kolkata,Banglore,CCU ? MAA ? BLR,06:20,10:20,4h,1 stop,No info,4226,0-5000
+SpiceJet,27/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 28 May,2h 20m,non-stop,No info,3873,0-5000
+SpiceJet,24/04/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 25 Apr,2h 55m,non-stop,No info,3625,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,4174,0-5000
+Air Asia,27/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+IndiGo,15/05/2019,Kolkata,Banglore,CCU ? BLR,04:40,07:15,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,12/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+Air Asia,9/05/2019,Banglore,Delhi,BLR ? DEL,11:10,13:55,2h 45m,non-stop,No info,3383,0-5000
+IndiGo,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+SpiceJet,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,22:45,00:15 19 Jun,1h 30m,non-stop,No info,2017,0-5000
+Jet Airways,3/06/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+Air Asia,18/05/2019,Banglore,Delhi,BLR ? DEL,04:55,07:45,2h 50m,non-stop,No info,4282,0-5000
+IndiGo,3/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2754,0-5000
+SpiceJet,21/06/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 22 Jun,2h 55m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,9/06/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+IndiGo,27/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,6/05/2019,Chennai,Kolkata,MAA ? CCU,05:15,07:40,2h 25m,non-stop,No info,3540,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,11:30,14:05,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,20:00,22:50,2h 50m,non-stop,No info,4823,0-5000
+Jet Airways,21/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:35,21:05,1h 30m,non-stop,In-flight meal not included,3210,0-5000
+IndiGo,3/06/2019,Banglore,Delhi,BLR ? DEL,01:30,04:15,2h 45m,non-stop,No info,3943,0-5000
+SpiceJet,15/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 16 May,2h 55m,non-stop,No check-in baggage included,3573,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No info,3873,0-5000
+SpiceJet,15/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 16 May,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+Air India,9/06/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+SpiceJet,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No check-in baggage included,2385,0-5000
+IndiGo,24/04/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 25 Apr,2h 50m,non-stop,No info,3625,0-5000
+Air India,15/06/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+SpiceJet,15/05/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No check-in baggage included,4760,0-5000
+IndiGo,18/06/2019,Chennai,Kolkata,MAA ? CCU,19:35,21:55,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,18/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+IndiGo,18/04/2019,Kolkata,Banglore,CCU ? BLR,15:30,18:05,2h 35m,non-stop,No info,4174,0-5000
+Air India,6/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+SpiceJet,1/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+SpiceJet,24/04/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3971,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,21/06/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,3625,0-5000
+IndiGo,18/04/2019,Banglore,Delhi,BLR ? DEL,10:10,13:00,2h 50m,non-stop,No info,4591,0-5000
+SpiceJet,9/05/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+Air India,9/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+IndiGo,12/06/2019,Chennai,Kolkata,MAA ? CCU,07:55,10:15,2h 20m,non-stop,No info,3850,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,10:30,13:20,2h 50m,non-stop,No info,3943,0-5000
+GoAir,24/04/2019,Banglore,Delhi,BLR ? DEL,07:45,10:40,2h 55m,non-stop,No info,4632,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+IndiGo,21/04/2019,Banglore,Delhi,BLR ? DEL,18:25,21:20,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,3/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3859,0-5000
+SpiceJet,21/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3919,0-5000
+Air India,18/05/2019,Chennai,Kolkata,MAA ? CCU,11:40,13:55,2h 15m,non-stop,No info,4667,0-5000
+IndiGo,24/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:20,22:50,1h 30m,non-stop,No info,2227,0-5000
+Jet Airways,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,10:20,11:50,1h 30m,non-stop,In-flight meal not included,4995,0-5000
+GoAir,24/04/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3898,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,9/05/2019,Banglore,Delhi,BLR ? DEL,06:00,08:45,2h 45m,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,4392,0-5000
+SpiceJet,18/06/2019,Chennai,Kolkata,MAA ? CCU,17:45,20:05,2h 20m,non-stop,No check-in baggage included,3543,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,21/05/2019,Banglore,Delhi,BLR ? DEL,21:15,00:15 22 May,3h,non-stop,No info,3943,0-5000
+SpiceJet,24/04/2019,Delhi,Cochin,DEL ? PNQ ? COK,08:45,13:15,4h 30m,1 stop,No check-in baggage included,4760,0-5000
+SpiceJet,21/05/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 22 May,2h 20m,non-stop,No info,3873,0-5000
+GoAir,9/06/2019,Banglore,Delhi,BLR ? DEL,20:55,23:40,2h 45m,non-stop,No info,3898,0-5000
+Air Asia,18/04/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 19 Apr,2h 50m,non-stop,No info,4483,0-5000
+Vistara,3/06/2019,Chennai,Kolkata,MAA ? CCU,07:05,09:20,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+Air Asia,18/04/2019,Kolkata,Banglore,CCU ? BLR,19:55,22:25,2h 30m,non-stop,No info,4409,0-5000
+Air India,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3100,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BLR,14:25,16:55,2h 30m,non-stop,No info,4804,0-5000
+Air India,24/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+Vistara,24/06/2019,Chennai,Kolkata,MAA ? CCU,07:45,10:00,2h 15m,non-stop,No info,3687,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,04:00,06:50,2h 50m,non-stop,No info,3943,0-5000
+SpiceJet,24/04/2019,Kolkata,Banglore,CCU ? MAA ? BLR,15:05,20:20,5h 15m,1 stop,No info,4859,0-5000
+IndiGo,21/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+Vistara,6/05/2019,Banglore,Delhi,BLR ? DEL,11:30,14:20,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,12/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 13 Jun,2h 20m,non-stop,No info,3873,0-5000
+Air India,21/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+IndiGo,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+SpiceJet,12/06/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No info,2753,0-5000
+GoAir,9/06/2019,Kolkata,Banglore,CCU ? HYD ? BLR,06:40,14:35,7h 55m,1 stop,No info,3673,0-5000
+IndiGo,12/05/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 13 May,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:55,04:20,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+Air Asia,12/06/2019,Banglore,Delhi,BLR ? DEL,23:55,02:45 13 Jun,2h 50m,non-stop,No info,3383,0-5000
+Air India,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:30,20:45,1h 15m,non-stop,No info,3625,0-5000
+Air India,27/05/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
+SpiceJet,15/06/2019,Mumbai,Hyderabad,BOM ? HYD,13:15,14:45,1h 30m,non-stop,No info,2017,0-5000
+GoAir,15/06/2019,Kolkata,Banglore,CCU ? BLR,15:20,17:55,2h 35m,non-stop,No info,3514,0-5000
+IndiGo,1/06/2019,Banglore,Delhi,BLR ? DEL,18:55,21:50,2h 55m,non-stop,No info,4823,0-5000
+SpiceJet,1/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No check-in baggage included,3543,0-5000
+SpiceJet,18/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 19 May,2h 55m,non-stop,No check-in baggage included,3919,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,16:55,19:55,3h,non-stop,No info,4823,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,17:15,19:50,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,18/05/2019,Kolkata,Banglore,CCU ? BLR,14:55,17:25,2h 30m,non-stop,No info,4174,0-5000
+SpiceJet,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,05:45,07:15,1h 30m,non-stop,No check-in baggage included,1965,0-5000
+Jet Airways,24/04/2019,Banglore,Delhi,BLR ? DEL,08:20,11:20,3h,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,9/06/2019,Chennai,Kolkata,MAA ? CCU,11:35,14:00,2h 25m,non-stop,No info,3858,0-5000
+Air India,1/05/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3625,0-5000
+IndiGo,24/04/2019,Kolkata,Banglore,CCU ? BLR,09:35,12:20,2h 45m,non-stop,No info,4804,0-5000
+IndiGo,12/06/2019,Banglore,Delhi,BLR ? DEL,22:10,01:00 13 Jun,2h 50m,non-stop,No info,3419,0-5000
+Vistara,18/05/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,15/05/2019,Banglore,Delhi,BLR ? DEL,21:10,00:05 16 May,2h 55m,non-stop,No info,3625,0-5000
+SpiceJet,27/05/2019,Chennai,Kolkata,MAA ? CCU,09:45,12:00,2h 15m,non-stop,No info,3597,0-5000
+IndiGo,15/06/2019,Banglore,Delhi,BLR ? DEL,08:30,11:20,2h 50m,non-stop,No info,4823,0-5000
+SpiceJet,12/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No info,4423,0-5000
+IndiGo,18/06/2019,Delhi,Cochin,DEL ? COK,14:20,17:35,3h 15m,non-stop,No info,5000,0-5000
+Jet Airways,1/05/2019,Banglore,Delhi,BLR ? DEL,07:10,10:10,3h,non-stop,In-flight meal not included,4030,0-5000
+IndiGo,6/05/2019,Mumbai,Hyderabad,BOM ? HYD,19:05,20:35,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,20:25,23:10,2h 45m,non-stop,No info,4804,0-5000
+GoAir,21/06/2019,Banglore,Delhi,BLR ? DEL,11:40,14:30,2h 50m,non-stop,No info,3398,0-5000
+SpiceJet,21/06/2019,Kolkata,Banglore,CCU ? BLR,06:55,09:30,2h 35m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,24/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 25 Jun,2h 35m,non-stop,No info,4804,0-5000
+IndiGo,9/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2437,0-5000
+Air India,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,15:00,16:25,1h 25m,non-stop,No info,3100,0-5000
+IndiGo,18/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 19 Jun,2h 35m,non-stop,No info,4804,0-5000
+SpiceJet,18/04/2019,Kolkata,Banglore,CCU ? BLR,09:00,11:25,2h 25m,non-stop,No check-in baggage included,3841,0-5000
+IndiGo,12/06/2019,Kolkata,Banglore,CCU ? BBI ? BLR,07:10,12:40,5h 30m,1 stop,No info,4864,0-5000
+Vistara,12/05/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+SpiceJet,27/04/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 28 Apr,2h 20m,non-stop,No check-in baggage included,3841,0-5000
+SpiceJet,3/06/2019,Kolkata,Banglore,CCU ? BLR,22:20,00:40 04 Jun,2h 20m,non-stop,No info,3873,0-5000
+IndiGo,21/05/2019,Kolkata,Banglore,CCU ? HYD ? BLR,19:20,23:45,4h 25m,1 stop,No info,3574,0-5000
+Jet Airways,12/05/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,20:05,21:40,1h 35m,non-stop,No info,2227,0-5000
+Jet Airways,21/04/2019,Banglore,Delhi,BLR ? DEL,15:15,18:10,2h 55m,non-stop,In-flight meal not included,4544,0-5000
+SpiceJet,12/05/2019,Banglore,Delhi,BLR ? DEL,09:30,12:20,2h 50m,non-stop,No check-in baggage included,4319,0-5000
+IndiGo,12/05/2019,Mumbai,Hyderabad,BOM ? HYD,12:00,13:30,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,21/05/2019,Chennai,Kolkata,MAA ? CCU,13:15,15:35,2h 20m,non-stop,No info,3597,0-5000
+Jet Airways,18/05/2019,Mumbai,Hyderabad,BOM ? HYD,07:05,08:30,1h 25m,non-stop,In-flight meal not included,4050,0-5000
+IndiGo,27/05/2019,Mumbai,Hyderabad,BOM ? HYD,02:35,04:05,1h 30m,non-stop,No info,2754,0-5000
+IndiGo,27/06/2019,Kolkata,Banglore,CCU ? BLR,22:15,00:50 28 Jun,2h 35m,non-stop,No info,4804,0-5000
+Jet Airways,18/06/2019,Delhi,Cochin,DEL ? COK,09:50,13:05,3h 15m,non-stop,In-flight meal not included,4466,0-5000
+SpiceJet,12/06/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,4319,0-5000
+Vistara,1/05/2019,Banglore,Delhi,BLR ? DEL,21:00,23:50,2h 50m,non-stop,No info,4668,0-5000
+IndiGo,27/04/2019,Kolkata,Banglore,CCU ? BLR,15:15,17:45,2h 30m,non-stop,No info,4804,0-5000
+Air India,6/06/2019,Mumbai,Hyderabad,BOM ? HYD,21:05,22:25,1h 20m,non-stop,No info,3100,0-5000
+Air India,9/06/2019,Mumbai,Hyderabad,BOM ? HYD,06:20,07:40,1h 20m,non-stop,No info,3100,0-5000
+SpiceJet,21/05/2019,Banglore,Delhi,BLR ? DEL,05:55,08:35,2h 40m,non-stop,No check-in baggage included,3257,0-5000
+Air India,27/04/2019,Kolkata,Banglore,CCU ? BLR,20:45,23:20,2h 35m,non-stop,No info,4145,0-5000
